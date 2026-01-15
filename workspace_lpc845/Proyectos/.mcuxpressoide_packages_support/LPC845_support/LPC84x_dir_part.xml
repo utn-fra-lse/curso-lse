@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chips chipVendor="NXP"
+       family="LPC84x"
+       vendorURL="http://www.nxp.com"
+       chipURL="">
+   <chip name="LPC845"
+         displayName="LPC845"
+         xml_file="LPC845_internal.xml"
+         chipURL=""/>
+</chips>
